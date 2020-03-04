@@ -1,2 +1,3 @@
-# AndriodStudio
-Class Lab 
+#Andriod Studio Task 2: Quiz App
+This is, an andriod app, quiz app for NEA general knowledge built in Andriod Studio using java language. FOllowing are the images of three layouts of this app:
+[![Main Activity](https://github.com/mk1995/AndriodStudio/blob/master/mainActivity.png "Main Activity")](https://github.com/mk1995/AndriodStudio/blob/master/mainActivity.png "Main Activity") [![Quiz Activity](https://github.com/mk1995/AndriodStudio/blob/master/QuizActivity.png "Quiz Activity")](https://github.com/mk1995/AndriodStudio/blob/master/QuizActivity.png "Quiz Activity") [![Score Activity](https://github.com/mk1995/AndriodStudio/blob/master/scoreActivity.png "Score Activity")](https://github.com/mk1995/AndriodStudio/blob/master/scoreActivity.png "Score Activity")
